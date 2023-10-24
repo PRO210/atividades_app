@@ -1,0 +1,8 @@
+.border-landscape {
+  width: 100%;
+  height: 12px;
+}
+.border-portrait {
+  width: 12px;
+  height: 100%;
+}

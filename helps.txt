@@ -1,0 +1,21 @@
+ {{-- <div class="xs: bg-blue-700  sm:bg-gray-900  md:bg-red-600 h-6 mx-8"></div> --}}
+    {{-- https://codepen.io/QJan84/pen/zYvRMMw --}}
+
+https://tailwind.build/classes/animation/transition+%25_F+.transition-*
+
+
+  // borderLeft: 12,
+  // borderRight: 12,
+  // borderStyle: 'solid',
+  // borderColor: 'transparent',
+  // borderImageSource: `url(${pngwingLandscape})`,
+  // borderImageSlice: 20,
+  // borderImageRepeat: 'repeat' ,
+
+npm i -D prettier eslint-config-prettier eslint-plugin-prettier (para react create )
+npx eslint src/**/*.js --fix
+npx eslint src/**/*.jsx --fix
+npm i prop-types
+npx eslint-config-prettier .\src\main.jsx
+npx npm-check -u
+eslint-disable-next-line
